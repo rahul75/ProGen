@@ -1,0 +1,15 @@
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.exe
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.pdb
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\bin\Debug\ProcedureGenerator.exe.manifest
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\bin\Debug\ProcedureGenerator.application
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\bin\Debug\ProcedureGenerator.exe
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\bin\Debug\ProcedureGenerator.pdb
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.Form1.resources
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.FormGenrator.resources
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.Properties.Resources.resources
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.csproj.GenerateResource.Cache
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.exe.manifest
+D:\ProcedureGenratorProject\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.application

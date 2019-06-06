@@ -1,0 +1,15 @@
+bin\Debug\ProcedureGenerator.exe
+bin\Debug\ProcedureGenerator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ProcedureGenerator.Form1.resources
+obj\Debug\ProcedureGenerator.Properties.Resources.resources
+obj\Debug\ProcedureGenerator.csproj.GenerateResource.Cache
+obj\Debug\ProcedureGenerator.exe
+obj\Debug\ProcedureGenerator.pdb
+bin\Debug\ProcedureGenerator.exe.manifest
+bin\Debug\ProcedureGenerator.application
+obj\Debug\ProcedureGenerator.exe.manifest
+obj\Debug\ProcedureGenerator.application
+bin\Debug\Microsoft.SqlServer.Replication.dll
+bin\Debug\Microsoft.SqlServer.BatchParser.dll
+obj\Debug\ProcedureGenerator.FormGenrator.resources

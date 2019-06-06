@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcedureGenerator", "ProcedureGenerator\ProcedureGenerator.csproj", "{5730D70D-1D87-444D-855D-AE9570430CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5730D70D-1D87-444D-855D-AE9570430CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5730D70D-1D87-444D-855D-AE9570430CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5730D70D-1D87-444D-855D-AE9570430CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5730D70D-1D87-444D-855D-AE9570430CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

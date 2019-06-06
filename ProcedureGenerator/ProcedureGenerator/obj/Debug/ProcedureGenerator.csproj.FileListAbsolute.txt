@@ -1,0 +1,13 @@
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.exe
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.pdb
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\bin\Debug\ProcedureGenerator.exe.manifest
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\bin\Debug\ProcedureGenerator.application
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\bin\Debug\ProcedureGenerator.exe
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\bin\Debug\ProcedureGenerator.pdb
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\bin\Debug\Microsoft.SqlServer.Replication.dll
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.Form1.resources
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.FormGenrator.resources
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.Properties.Resources.resources
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.csproj.GenerateResource.Cache
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.exe.manifest
+F:\PROJECT2017\readmail\New folder\ProcedureGenerator\ProcedureGenerator\obj\Debug\ProcedureGenerator.application
